@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 
 using namespace std;
-// 
+// https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1
 class BT{
     public:
     int val;
